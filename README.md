@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blamar42
 - 👀 I’m interested in vb.net, GitHub, VBA
-- 🌱 I’m currently learning vb.net, java
+- 🌱 I’m currently learning vb.net, python
 - 💞️ I’m looking to collaborate on don't know at the moment...
 - 📫 How to reach me ...
 
